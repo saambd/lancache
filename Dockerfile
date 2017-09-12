@@ -7,7 +7,7 @@
 FROM ubuntu
 
 # File Author / Maintainer
-MAINTAINER Andrew Gee <agee@techfutures.co>
+MAINTAINER Salim Rahman <me@salimrahman.com>
 
 # Update the repository sources list and install wget
 RUN  apt-get update \
